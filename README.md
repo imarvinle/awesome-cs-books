@@ -9,3 +9,15 @@
 本仓库持续更新中，后续会陆续分享书单中的书籍百度网盘链接。
 
 
+---
+
+### 算法与数据结构类
+
+LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.com/s/1PERa4bL7K-FoXit5440YNQ)  密码: 14fn
+
+第二份谷歌刷题笔记 [百度网盘链接](https://pan.baidu.com/s/1HMJvHjB964OpwtHAJQrPQw)  密码: k70j
+
+
+### 计算机基础
+
+计算机网络自顶向下:[百度网盘链接](https://pan.baidu.com/s/1PidIzLmFVWAb8T74GyVGlQ)  密码: bhob
