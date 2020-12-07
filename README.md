@@ -18,6 +18,11 @@ LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.
 第二份谷歌刷题笔记 [百度网盘链接](https://pan.baidu.com/s/1HMJvHjB964OpwtHAJQrPQw)  密码: k70j
 
 
+
 ### 计算机基础
 
 计算机网络自顶向下:[百度网盘链接](https://pan.baidu.com/s/1PidIzLmFVWAb8T74GyVGlQ)  密码: bhob
+
+### C++复习
+
+C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZWAJQQKZUeBtw)  密码: lrv9
