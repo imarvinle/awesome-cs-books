@@ -9,7 +9,11 @@
 本仓库持续更新中，后续会陆续分享书单中的书籍百度网盘链接。
 
 
+
 ---
+
+
+
 
 ### 算法与数据结构类
 
@@ -29,3 +33,12 @@
 C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZWAJQQKZUeBtw)  密码: lrv9
 
 
+目前我把电子书暂时放在公众号【编程指北】了，扫码关注下面公众号，回复「pdf」
+就有我收集的上百本经典计算机书籍，包含各个方向：
+
+![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7amsbgaij312w0r0tb6.jpg)
+
+
+![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7ane27v0j30by0bymxz.jpg)
+
+**扫码回复「pdf」**
