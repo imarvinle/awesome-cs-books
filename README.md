@@ -106,7 +106,18 @@
 
 # 算法和数据结构
 
-//TODO
+- 算法图解.pdf  [百度云下载链接](https://pan.baidu.com/s/1dhEy_uvJYoqehdvYnHzoBg)  密码:lk0v
+- 算法第四版.pdf  [百度云下载链接](https://pan.baidu.com/s/1b89HDicDLsCC_qg894FUvA)  密码:gsjc
+- 算法导论第三版.pdf  [百度云下载链接](https://pan.baidu.com/s/1ljP9Qwg5RqL_4LzrYK9jrA)  密码:qans
+- 数据结构与算法经典问题解析Java语言描述.pdf  [百度云下载链接](https://pan.baidu.com/s/1cXLrpad3Z-huk5otPVMMjg)  密码:m7ef
+- 数据结构与算法分析:C语言描述_原书第2版.pdf  [百度云下载链接](https://pan.baidu.com/s/1MudCT3RNO9I991surooqgg)  密码:1w5g
+- 大话数据结构.pdf  [百度云下载链接](https://pan.baidu.com/s/1dyH64h2603-ag8Yk6UM94w)  密码:h5du
+- 编程之美——微软技术面试心得.pdf  [百度云下载链接](https://pan.baidu.com/s/1r1VkAgh03G5Zfha35coyrg)  密码:rcpv
+- 编程之法.pdf  [百度云下载链接](https://pan.baidu.com/s/1jbypY-mQxJ1M1Hz97ptFjQ)  密码:0cv3
+
+- 背包九讲.pdf  [百度云下载链接](https://pan.baidu.com/s/13-ov__8xJ_SSxCmhkP4iSQ)  密码:he90
+- 啊哈算法.pdf  [百度云下载链接](https://pan.baidu.com/s/1vO9c3T3v89krlMsWEGDQCw)  密码:h89a
+- Algorithms, 4th Edition(算法，第四版).pdf  [百度云下载链接](https://pan.baidu.com/s/1ugDCe6ISRoa1Zi3UGW5Ncw)  密码:ipni
 
 # 网络编程
 
@@ -116,7 +127,7 @@
 
 - Linux网络编程.pdf   [百度云下载链接](https://pan.baidu.com/s/16VlCbRzSUyiBfL7dVNqYqg)  密码:h42n
 - Linux高性能服务器编程.pdf    [百度云下载链接](https://pan.baidu.com/s/1Bf0CaJ5m3hNfJF7oNvYn6g)  密码:o054
-
+- Linux多线程服务端编程.pdf    [百度云下载链接](https://pan.baidu.com/s/1GNNQIOBAPpMv9OiAn9Taaw)  密码:g2vr
  
 
 # 架构和设计模式
@@ -129,7 +140,9 @@
 
 # 数据库和存储
 
-// TODO 
+- 高性能 MySQL 第三版.pdf [百度云下载链接](https://pan.baidu.com/s/15ErTDBdZETdcbyncJeHIMQ)  密码:244p
+- Redis开发与运维(付磊).pdf [百度云下载链接](https://pan.baidu.com/s/1z6ojYkZU88Tznk4HX6RuxQ)  密码:gsp6
+- MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf[百度云下载链接](https://pan.baidu.com/s/1YPZsJxaqTPNYtNgz3m893Q)  密码:e4m4
 
 
 # C++
