@@ -28,7 +28,6 @@
 
 
 
-
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
 
@@ -44,6 +43,7 @@
 - [数据库和存储](#数据库和存储)
 - [C++](#c)
 - [Java](#java)
+- [JAVA](#java-1)
 - [C语言](#c语言)
 - [大数据](#大数据)
 - [机器学习和人工智能](#机器学习和人工智能)
@@ -84,13 +84,24 @@
 
 ### 计算机网络
 
-计算机网络自顶向下:[百度网盘链接](https://pan.baidu.com/s/1PidIzLmFVWAb8T74GyVGlQ)  密码: bhob
+- 计算机网络自顶向下:[百度网盘链接](https://pan.baidu.com/s/1PidIzLmFVWAb8T74GyVGlQ)  密码: bhob
+- 计算机网络教程：自顶向下方法.pdf    [百度云下载链接](https://pan.baidu.com/s/12Pbm4s0jFExKdBiso4Mt8Q)  密码:gkpg
+- Wireshark网络分析就这么简单.pdf   [百度云下载链接](https://pan.baidu.com/s/1F3a4yPoKzvTnmkDNB3YiSQ)  密码:1aek
+- tcp源码分析.pdf   [百度云下载链接](https://pan.baidu.com/s/1wqtLLNudruzDSoMwoan5zA)  密码:jwk8
+- HTTP权威指南（中文版）.pdf   [百度云下载链接](https://pan.baidu.com/s/1FPYpNKrlH7cXJUCmmasR-A)  密码:2n0j
+
 
 ### 计算机组成原理
 
 // TODO 
 
 ### 计算机系统
+
+- 深入理解计算机系统（中文清晰）.pdf    [百度云下载链接](https://pan.baidu.com/s/11oR4ZnOfuD7uA1koCr0XQg)  密码:srbi
+- 链接器和加载器.pdf  [百度云下载链接](https://pan.baidu.com/s/14_W9GhUnTEnkzkkS55kYtg)  密码:jjj1
+- 分布式系统概念与设计 原书第5版.pdf   [百度云下载链接](https://pan.baidu.com/s/1ULEs5pkUnlOa6glwhYXBxw)  密码:d7ip
+- 程序员的自我修养—链接、装载与库--书签目录.pdf   [百度云下载链接](https://pan.baidu.com/s/1y3KCxsmVt0waey-kvs-QoQ)  密码:5ilw
+- 编码——隐匿在计算机软硬件背后的语言上.pdf   [百度云下载链接](https://pan.baidu.com/s/1X0vCd-Z9mS51NCKzgr0_iA)  密码:0fg8
 
 
 # 算法和数据结构
@@ -103,7 +114,11 @@
 
 # 架构和设计模式
 
-//TODO 
+- 设计模式pdf    [百度云下载链接](https://pan.baidu.com/s/1TMet-9ceUT-_1LfKac9Bgw)  密码:6af9
+- 软件架构方面.pdf [百度云下载链接](https://pan.baidu.com/s/1zGuxNXFMFnz1ul0In0hTGA)  密码:dnvl
+- 大型网站技术架构_核心原理与案例分析_李智慧.pdf  [百度云下载链接](https://pan.baidu.com/s/1Sq6oz5olXppL-szyBUbpGA)  密码:7f0m
+- 程序员的自我修养—链接、装载与库--书签目录.pdf   [百度云下载链接](https://pan.baidu.com/s/1y3KCxsmVt0waey-kvs-QoQ)  密码:5ilw
+- 大型分布式网站架构设计与实践.带目录书签.完整版.pdf   [百度云下载链接](https://pan.baidu.com/s/1uSDX_IW5YzcPobn00q1ZVQ)  密码:mcdd
 
 # 数据库和存储
 
@@ -113,17 +128,42 @@
 # C++
 
 
+- 多型与虚拟   [百度云下载链接](https://pan.baidu.com/s/1zCsLDPsY2u73SjOcuglhJw)  密码:6abk
+- 大规模C++程序设计   [百度云下载链接](https://pan.baidu.com/s/1_tngVySj-c_mr3J0wiXTWQ)  密码:3abr
+- Modern+Design   [百度云下载链接](https://pan.baidu.com/s/1ZQYnFdbr9V1hyD5BDGTbfA)  密码:wwc1
+- Effective_C++   [百度云下载链接](https://pan.baidu.com/s/1iQhFIrXIXhNkzJdLTJ-s_A)  密码:4ada
+- CppPractice   [百度云下载链接](https://pan.baidu.com/s/1VvVShtrl1uapaab7XoRg1A)  密码:g2hb
+- C++语言的设计和演化   [百度云下载链接](https://pan.baidu.com/s/1DgWjpX_uwDYICskHYt3NmA)  密码:ld1i
+- C++应用程序性能优化   [百度云下载链接](https://pan.baidu.com/s/1QqvlJM6oPkR19nFZWa5K0A)  密码:0eqh
+- C++程序设计语言   [百度云下载链接](https://pan.baidu.com/s/1wXBzM17F4aaJ4HVlLpY4Ug)  密码:w100
+- C++沉思录   [百度云下载链接](https://pan.baidu.com/s/1CijSzOVJt0lWwYpix7uy0g)  密码:um2e
+- C++编程规范-101条规则准则与最佳实践   [百度云下载链接](https://pan.baidu.com/s/1c50vqfw6UWdfc0qbv_QPvgA)  密码:3ugi
+- C++ Primer Plus（第6版）_中文版_带书签_超清   [百度云下载链接](https://pan.baidu.com/s/19a2f1SdG9b8frAJs6V1WoQ)  密码:wgwa
+- C++ Primer Plus  第6版  中文版   [百度云下载链接](https://pan.baidu.com/s/1GKTiU4-1C_OwmlhhOEGa4w)  密码:ajrd
+- C++ Primer 5th En   [百度云下载链接](https://pan.baidu.com/s/1oSFNxDtIyje3-xyak-I-lg)  密码:f4br
+- 0 bug—C C++商用工程之道   [百度云下载链接](https://pan.baidu.com/s/1Fyo1eTq-JYp5RNTlPUNxIw)  密码:t5fi
+
+
 
 C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZWAJQQKZUeBtw)  密码: lrv9
 
 # Java
 
-// TODO 
+# JAVA
+
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版） [百度云下载链接](https://pan.baidu.com/s/19tZRPcrl-VSN76Ifxj9LIQ)  密码:656g
+- Java核心技术卷1基础知识原书第10版 [百度云下载链接](https://pan.baidu.com/s/1AbzVqRexes83F_Vt3BRDmw)  密码:v8tp
+- Effective Java 中文第二版 [百度云下载链接](https://pan.baidu.com/s/1Oi8RJ-setdMUEWWtK1y6VA)  密码:ttlk
+
 
 
 # C语言
 
-// TODO
+- 高质量C编程指南.pdf   [百度云下载链接](https://pan.baidu.com/s/1mD2lqGZU2vzu8TAKjxJNBA)  密码:lw07
+- ooc.pdf   [百度云下载链接](https://pan.baidu.com/s/1nf7hdURkuK5JPxyU_5wtgA )  密码:9tkr
+- C语言接口与实现.pdf   [百度云下载链接](https://pan.baidu.com/s/1vSMqr0CIFWU5AcSqyyrJNA)  密码:pqip
+- C程序性能优化  20个实验与达人技巧.pdf   [百度云下载链接](https://pan.baidu.com/s/1KPfrU2iYb9sPFpmEyHHSvQ)  密码:snir
+
 
 # 大数据
 
