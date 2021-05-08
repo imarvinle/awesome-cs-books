@@ -12,6 +12,10 @@
 
 **本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
+- **[一键领取所有书籍](#全部汇总)**
+
+
+
 **如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/Marvinle/awesome-cs-books](https://gitee.com/Marvinle/awesome-cs-books)**
 
 
