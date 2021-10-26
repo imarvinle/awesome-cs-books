@@ -1,6 +1,9 @@
 <h1 align="center">awesome-cs-books: 超过 200 本经典的计算机书籍分享</h1>
 
 
+**阿里云新用户可以免费领取一年服务器，点击参与免费领取：[https://mp.weixin.qq.com/s/3fZ323W7wBaBbCaZSTc30w](https://mp.weixin.qq.com/s/3fZ323W7wBaBbCaZSTc30w)**
+
+
 **经典的编程书单大全简介:**
 
 > 这里汇集如下主题的经典书籍：
