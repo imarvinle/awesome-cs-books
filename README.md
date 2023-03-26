@@ -11,10 +11,6 @@
 
 **本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
-[![限时免费领取阿里云服务器！，点击前往领取](https://tva1.sinaimg.cn/large/008vxvgGgy1h7v42w0ljij31200j4n0w.jpg "限时免费领取阿里云服务器！，点击前往领取")](https://docs.qq.com/doc/DTEFhbU5CanZoTG1o)
-
-- **[免费领取一年阿里云服务器](https://docs.qq.com/doc/DTEFhbU5CanZoTG1o)**
-
 - **[一键领取所有书籍](#全部汇总)**
 
 
