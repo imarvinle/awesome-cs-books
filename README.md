@@ -10,6 +10,8 @@
 
 ## 推荐系统学习编程网站：包含各种方向学习路线、C++、Java、校招等内容
 
+![](https://cdn.how2cs.cn/csguide/173358.png)
+
 [https://csguide.cn/](https://csguide.cn/)
 
 
