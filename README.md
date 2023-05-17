@@ -224,4 +224,4 @@ C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZW
 
 书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：2039652520@qq.com
 
-[[Page Views Count](https://badges.toozhao.com/badges/01F17FZCY8Y12PMT4VJH8JQAQX/green.svg)](https://badges.toozhao.com/stats/01F17FZCY8Y12PMT4VJH8JQAQX "Get your own page views count badge on badges.toozhao.com")
+
