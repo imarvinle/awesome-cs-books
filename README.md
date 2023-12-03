@@ -13,12 +13,7 @@
 [![CS Guide](https://cdn.how2cs.cn/csguide/173358.png "CS Guide")](https://csguide.cn)
 
 [https://csguide.cn/](https://csguide.cn/)
-
-### 🔥 2023限时免费领取一年阿里云服务器
-
-* 👉 **[《阿里云服务器领取指引》](https://csguide.cn/other/aliyun.html)**: 99 元买 2核 2g 内存的服务器，小北会返现 99 元，等同于 0 元购买一年服务器，活动持续到 11 月底！
    
-
 **本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
 - **[一键领取所有书籍](#全部汇总)**
