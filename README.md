@@ -25,7 +25,7 @@
 
 **大神刷题笔记**
 
-- 《LeetCode101（谷歌师兄刷题笔记）》[百度网盘链接](https://pan.baidu.com/s/1PERa4bL7K-FoXit5440YNQ)  密码: 14fn
+- 《LeetCode101（谷歌师兄刷题笔记）》[百度网盘链接](https://pan.baidu.com/s/1A1gj-Bu5_zHoAqU2MIZIqw?pwd=rcz8)  密码: rcz8
 
 - 《第二份谷歌刷题笔记》 [百度网盘链接](https://pan.baidu.com/s/1HMJvHjB964OpwtHAJQrPQw)  密码: k70j
 
