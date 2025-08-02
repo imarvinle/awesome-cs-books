@@ -21,7 +21,9 @@
 
 ## [ChatGPT Plus 自助升级](https://ai.chatgptzh.com.cn/)
 
+  [https://ai.chatgptzh.com.cn/](https://ai.chatgptzh.com.cn/)
 
+  
 **如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/Marvinle/awesome-cs-books](https://gitee.com/Marvinle/awesome-cs-books)**
 
 
