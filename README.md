@@ -8,6 +8,15 @@
 安卓、IOS、数据库、Redis等主流的编程学习书籍。
 
 
+
+
+## [ChatGPT Plus 自助升级](https://ai.chatgptzh.com.cn/i/github)
+
+  [https://ai.chatgptzh.com.cn/](https://ai.chatgptzh.com.cn/i/github)
+
+
+  
+
 ## 推荐系统学习编程网站：包含各种方向学习路线、C++、Java、校招等内容
 
 [![CS Guide](https://cdn.how2cs.cn/csguide/173358.png "CS Guide")](https://csguide.cn)
@@ -19,9 +28,7 @@
 - **[一键领取所有书籍](#全部汇总)**
 
 
-## [ChatGPT Plus 自助升级](https://ai.chatgptzh.com.cn/)
 
-  [https://ai.chatgptzh.com.cn/](https://ai.chatgptzh.com.cn/)
 
   
 **如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/Marvinle/awesome-cs-books](https://gitee.com/Marvinle/awesome-cs-books)**
